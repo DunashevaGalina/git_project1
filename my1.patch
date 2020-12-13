@@ -1,0 +1,13 @@
+Index: README
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- README	(date 1467156555000)
++++ README	(date 1607856216000)
+@@ -1,3 +1,4 @@
+ Create release branch with human (master) in boots (boots branch) and hat (hat branch) with nice buttons on his jacket (buttons branch)
+ 
+ You must receive some image as in demo branch
++111
+\ No newline at end of file
